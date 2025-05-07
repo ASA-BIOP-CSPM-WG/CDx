@@ -1,1 +1,1 @@
-# CDx
+# Project ideas
